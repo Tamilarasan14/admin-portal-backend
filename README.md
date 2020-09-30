@@ -90,7 +90,7 @@ To get the Content Builder Back end project
 1.	To Switch the required branch (ex. development) click the bottom-left corner existing branch name and select from the drop down.
 ![Back End Switch Branch Screenshot](README/VSCodeBackEndSwitchBranch.png)
 To Open a command prompt window. From VSCode open Terminal -> New Terminal.
-![Back End Toggle Terminal Screenshot](README/VSCodeBackEndToggleTerminal.png.png)
+![Back End Toggle Terminal Screenshot](README/VSCodeBackEndToggleTerminal.PNG)
 1.	Execute the following commands to install
 
 npm install 
