@@ -38,7 +38,7 @@ Choose a mirror close to you and download from there and install it.
 To get the Content Builder back end project
 
 1.	Start Eclipse and create a workspace file in your preferred local directory (ex. C:\admin-portal\admin-portal-backend) 
-![Back End Eclipse Workspace Screenshot](README/BackEndEclipseWorkspace.png)
+![Back End Eclipse Workspace Screenshot](README/BackEndEclipseWorkspace.PNG)
 2.	 Open the Git perspective.
 From Eclipse open Window -> Perspective -> Open Perspective -> Other.. -> Git
 3.	In the Git - Select Repositories source.
