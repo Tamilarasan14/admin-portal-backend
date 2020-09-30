@@ -1,0 +1,38 @@
+{
+  "name": "content-builder-api",
+  "version": "1.0.0",
+  "description": "Back end API for CB 2.0.",
+  "main": "index.js",
+  "license": "n/a",
+  "private": true,
+  "dependencies": {
+    "@types/restify": "^8.4.2",
+    "config": "3.3.0",
+    "cors": "^2.8.5",
+    "jsdoc": "^3.6.5",
+    "pg": "^8.3.0",
+    "restify": "^8.5.1",
+    "restify-cookies": "^0.2.6",
+    "winston": "3.2.1"
+  },
+  "devDependencies": {
+    "eslint": "^7.9.0",
+    "eslint-config-airbnb": "^18.2.0",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-plugin-import": "^2.22.0",
+    "jest": "^26.4.2",
+    "sinon": "^9.0.1"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "set NODE_ENV=default.js&& jest",
+    "docs": "jsdoc -c jsdoc.conf.json"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "airbnb",
+      "plugin:prettier/recommended"
+    ]
+  }
+}
